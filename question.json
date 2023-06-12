@@ -1,7 +1,46 @@
 {
-  "category": "Cultura",
-  "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
-  "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
-  "answer": 0,
-  "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
+"category": "Shonen",
+"question": "¿Cuál es el mejor anime shonen de todos los tiempos?",
+"options": ["Naruto", "Dragon Ball Z", "One Piece", "Attack on Titan", "My Hero Academia"],
+"answer": 2,
+"explanation": "One Piece es ampliamente considerado uno de los mejores animes shonen de todos los tiempos debido a su vasto mundo, personajes memorables y una historia épica de piratas en busca del tesoro más grande del mundo, el One Piece."
+}
+{
+"category": "Shojo",
+"question": "¿Cuál es el mejor anime shojo romántico?",
+"options": ["Fruits Basket", "Sailor Moon", "Kimi ni Todoke", "Cardcaptor Sakura", "Lovely Complex"],
+"answer": 0,
+"explanation": "Fruits Basket ha capturado los corazones de los fanáticos del anime shojo con su conmovedora historia sobre una chica que se involucra con una familia maldita y descubre el poder del amor y la aceptación."
+}
+{
+"category": "Seinen",
+"question": "¿Cuál es el mejor anime seinen para adultos?",
+"options": ["Death Note", "Attack on Titan", "Psycho-Pass", "Cowboy Bebop", "Parasyte"],
+"answer": 1,
+"explanation": "Attack on Titan ha ganado el reconocimiento de los espectadores adultos debido a su narrativa madura, sus personajes complejos y su trama llena de acción que explora temas como la supervivencia, la venganza y la moralidad en un mundo asediado por gigantes devoradores de humanos."
+}
+
+
+{
+"category": "Mecha",
+"question": "¿Cuál es el mejor anime de mecha con batallas épicas de robots?",
+"options": ["Neon Genesis Evangelion", "Gurren Lagann", "Code Geass", "Mobile Suit Gundam", "Full Metal Panic!"],
+"answer": 0,
+"explanation": "Neon Genesis Evangelion es ampliamente reconocido como uno de los mejores animes de mecha debido a su enfoque psicológico y filosófico, junto con las impresionantes secuencias de batallas de robots y su narrativa compleja sobre la lucha de la humanidad contra criaturas misteriosas conocidas como Ángeles."
+}
+
+
+{
+"category": "Slice of Life",
+"question": "¿Cuál es el mejor anime de slice of life que retrata la vida cotidiana?",
+"options": ["K-On!", "Your Lie in April", "Barakamon", "March Comes in Like a Lion", "Natsume's Book of Friends"],
+"answer": 3,
+"explanation": "March Comes in Like a Lion ha cautivado a los espectadores con su retrato realista y conmovedor de la vida cotidiana de un jugador de shogi y su lucha contra la soledad, la depresión y la búsqueda de la felicidad en un mundo complicado."
+}
+{
+"category": "Isekai",
+"question": "¿Cuál es el mejor anime isekai que transporta a los personajes a un mundo alternativo?",
+"options": ["Sword Art Online", "Re:Zero - Starting Life in Another World", "Overlord", "The Rising of the Shield Hero", "Konosuba: God's Blessing on this Wonderful World!"],
+"answer": 1,
+"explanation": "Re:Zero - Starting Life in Another World ha ganado el reconocimiento de los fanáticos del anime isekai por su enfoque único y oscuro. El protagonista es transportado a un mundo de fantasía donde debe enfrentar peligros mortales y revivir constantemente a partir de un punto de control, lo que añade un elemento de suspense y decisiones difíciles a la trama."
 }
